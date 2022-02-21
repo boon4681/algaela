@@ -1,4 +1,3 @@
-tag @s add update.animation
 tag @s add saved
 function boon4681.algaela:animation/tail
 function boon4681.algaela:animation/head
