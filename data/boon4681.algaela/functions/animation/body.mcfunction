@@ -1,1 +1,0 @@
-execute as @s[tag=body] run function boon4681.algaela:animation/body/a

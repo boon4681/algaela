@@ -1,1 +1,0 @@
-execute as @s[tag=tail] run function boon4681.algaela:animation/tail/a

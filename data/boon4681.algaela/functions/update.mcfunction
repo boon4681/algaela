@@ -5,9 +5,8 @@ function boon4681.algaela:sine
 scoreboard players operation @s algaela.sine = input algaela.sine
 
 execute store result score selected algaela.id.selected run scoreboard players get @s algaela.id
-tag @e[tag=part,predicate=boon4681.algaela:find_part] add update.animation
-execute as @e[tag=update.animation] run function boon4681.algaela:animation/update
+execute as @e[tag=part,tag=!saved] if predicate boon4681.algaela:find_part run function boon4681.algaela:animation/update
 
 tp @e[tag=update.animation] @s
 tp @e[tag=update.animation] ~ ~-0.5 ~
-tag @e[tag=part] remove update.animation
+tag @e[tag=update.animation] remove update.animation
