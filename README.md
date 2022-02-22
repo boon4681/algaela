@@ -8,5 +8,5 @@
 function boon4681.algaela:spawn
 ```
 ### \*\* Require Resource pack \*\*
-### \* Downlaod Resource pack -> [Algaela Resource pack](https://github.com/boon4681/algaela/files/8109309/algaela.zip) \*
-### \* Downlaod Datapack -> [Algaela Datapack](https://github.com/boon4681/algaela/files/8109326/algaela.zip) \*
+### \* Download Resource pack -> [Algaela Resource pack](https://github.com/boon4681/algaela/files/8109309/algaela.zip) \*
+### \* Download Datapack -> [Algaela Datapack](https://github.com/boon4681/algaela/files/8109326/algaela.zip) \*
